@@ -2,13 +2,12 @@ import React, { useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { getTechs } from '../../actions/techActions';
-import { TapTarget } from 'materialize-css';
 
 const TechSelectOptions = ({ getTechs, tech: { techs, loading } }) => {
   useEffect(() => {
     getTechs();
     // eslint-disable-next-line
-  });
+  }, []);
 
   return (
     !loading &&
