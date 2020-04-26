@@ -6,6 +6,13 @@
       "attention": true,
       "tech": "Sam Smith",
       "date": "2020-04-26T11:23:16.589Z"
+    },
+    {
+      "message": "Workstation 012 is not booting",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-04-26T11:36:30.279Z",
+      "id": 2
     }
   ],
   "techs": [
