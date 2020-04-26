@@ -6,13 +6,6 @@
       "attention": true,
       "tech": "John Doe",
       "date": "2020-04-26T12:10:52.509Z"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 012 is not booting",
-      "attention": false,
-      "tech": "Jane Smith",
-      "date": "2020-04-26T12:31:48.926Z"
     }
   ],
   "techs": [
@@ -20,16 +13,6 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
     },
     {
       "firstName": "Tarric",
