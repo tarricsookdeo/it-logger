@@ -17,9 +17,7 @@ const Logs = () => {
     const data = await res.json();
 
     setLogs(data);
-    setTimeout(function () {
-      setLoading(false);
-    }, 2000);
+    setLoading(false);
   };
 
   if (loading) {
