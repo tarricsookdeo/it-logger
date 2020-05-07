@@ -2,10 +2,6 @@
 
 A simple logger to track issues in an IT department. Can have multiple technicians, and issues.
 
-# Screenshots
-
-## TODO
-
 # Technologies Used
 
 1. react 16.13.1
@@ -27,5 +23,10 @@ A simple logger to track issues in an IT department. Can have multiple technicia
 1. Clone the repo `git clone https://github.com/tarricsookdeo/it-logger.git`
 2. CD into project directiory `cd it-logger`
 3. Install npm packaged by running `npm install`
-4. Run `npm start` to launch react server. By default the server launches on port 3000 at `http://localhost:3000/`
+4. Run `npm run dev` to launch react server along with json-server. By default the react server launches on port 3000 at `http://localhost:3000/` and json-server launches on `http://localhost:5000/`
 5. (optional) The project uses the redux dev tools in the google chrome extenstions store. `https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en-US`
+
+# How To Use
+
+When the app is first loaded you will be greeted with this screen:
+![loading-screen](public/images/img1.png)

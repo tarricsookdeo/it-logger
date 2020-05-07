@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Server 017 is on fire",
+      "message": "Workstation 017 is on fire!!!",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2020-04-26T12:10:52.509Z"
+      "tech": "Tarric Sookdeo",
+      "date": "2020-05-07T09:48:03.426Z",
+      "id": 1
     }
   ],
   "techs": [
@@ -23,6 +23,11 @@
       "firstName": "Jane",
       "lastName": "Smith",
       "id": 5
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Cook",
+      "id": 6
     }
   ]
 }
