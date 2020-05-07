@@ -30,3 +30,10 @@ A simple logger to track issues in an IT department. Can have multiple technicia
 
 When the app is first loaded you will be greeted with this screen:
 ![loading-screen](public/images/img1.png)
+
+Hover over the blue add button on the right hand bottom of the screen, and a green and red button will also appear.
+
+- Blue button is used to add a new issue.
+- Red button is used to add a new tech.
+- Green button is used to list the techs, and from here techs can also be deleted.
+  ![button-example](public/images/img2.png)
